@@ -1,16 +1,44 @@
-### Hi there 👋
+### Full-Stack Software Engineer 
 
-<!--
-**jkbeattie/jkbeattie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack software engineer based in Australia. I pride myself on providing a seamless and hassle-free experience for my clients as well as producing high-quality software solutions for both personal and commerical use.
 
-Here are some ideas to get you started:
+I enjoy being creative and have a passion for solving problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My profile is a collection of personal and open-source projects/tools that I have created.
+
+
+### 🔧 Toolbox
+Some of the day-to-day tools and technologies I use for various projects include:
+
+![](https://img.shields.io/badge/Code-Python-141321?style=flat&logo=python&logoColor=white&labelColor=0093F5)
+![](https://img.shields.io/badge/Code-CSharp-141321?style=flat&logo=csharp&logoColor=white&labelColor=0093F5)
+![](https://img.shields.io/badge/Code-React-141321?style=flat&logo=react&logoColor=white&labelColor=0093F5)
+![](https://img.shields.io/badge/Code-JavaScript-141321?style=flat&logo=javascript&logoColor=white&labelColor=0093F5)
+![](https://img.shields.io/badge/Code-Sass-141321?style=flat&logo=sass&logoColor=white&labelColor=0093F5)
+
+![](https://img.shields.io/badge/Tools-Docker-141321?style=flat&logo=docker&logoColor=white&labelColor=0093F5)
+![](https://img.shields.io/badge/Tools-Postman-141321?style=flat&logo=postman&logoColor=white&labelColor=0093F5)
+![](https://img.shields.io/badge/Tools-Git-141321?style=flat&logo=git&logoColor=white&labelColor=0093F5)
+![](https://img.shields.io/badge/Tools-AWS-141321?style=flat&logo=amazonaws&logoColor=white&labelColor=0093F5)
+![](https://img.shields.io/badge/Tools-GCP-141321?style=flat&logo=googlecloud&logoColor=white&labelColor=0093F5)
+
+![](https://img.shields.io/badge/Editor-VSCode-141321?style=flat&logo=visual-studio-code&logoColor=white&labelColor=0093F5)
+![](https://img.shields.io/badge/OS-macOS-141321?style=flat&logo=apple&logoColor=white&labelColor=0093F5)
+![](https://img.shields.io/badge/OS-Windows-141321?style=flat&logo=windows&logoColor=white&labelColor=0093F5)
+
+### ✉️ Get In Touch
+Interested in working together? Lets have a chat!
+
+I'm always interested in collaborating and working on exciting new projects.
+
+Please contact me via email: hello@jkbeattie.dev
+
+
+
+
+
+
+
+
+
+
