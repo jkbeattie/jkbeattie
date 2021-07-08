@@ -6,6 +6,8 @@ I enjoy being creative and have a passion for solving problems.
 
 My profile is a collection of personal and open-source projects/tools that I have created.
 
+Want to know more about me? [Check out my portfolio!](https://jkbeattie.dev)
+
 
 ### 🔧 Toolbox
 Some of the day-to-day tools and technologies I use for various projects include:
