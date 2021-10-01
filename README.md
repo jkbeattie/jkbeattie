@@ -9,7 +9,7 @@ My profile is a collection of personal and open-source projects/tools that I hav
 Want to know more about me? [Check out my portfolio!](https://jkbeattie.dev)
 
 
-### 🔧 Toolbox
+### 🔧  Toolbox
 Some of the day-to-day tools and technologies I use for various projects include:
 
 ![](https://img.shields.io/badge/Code-Python-141321?style=flat&logo=python&logoColor=white&labelColor=0093F5)
@@ -28,7 +28,7 @@ Some of the day-to-day tools and technologies I use for various projects include
 ![](https://img.shields.io/badge/OS-macOS-141321?style=flat&logo=apple&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/OS-Windows-141321?style=flat&logo=windows&logoColor=white&labelColor=0093F5)
 
-### ✉️ Get In Touch
+### ✉️  Get In Touch
 Interested in working together? Lets have a chat!
 
 I'm always interested in collaborating and working on exciting new projects.
