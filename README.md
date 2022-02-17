@@ -24,10 +24,6 @@ Some of the day-to-day tools and technologies I use for various projects include
 ![](https://img.shields.io/badge/Tools-AWS-141321?style=flat&logo=amazonaws&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Tools-GCP-141321?style=flat&logo=googlecloud&logoColor=white&labelColor=0093F5)
 
-![](https://img.shields.io/badge/Editor-VSCode-141321?style=flat&logo=visual-studio-code&logoColor=white&labelColor=0093F5)
-![](https://img.shields.io/badge/OS-macOS-141321?style=flat&logo=apple&logoColor=white&labelColor=0093F5)
-![](https://img.shields.io/badge/OS-Windows-141321?style=flat&logo=windows&logoColor=white&labelColor=0093F5)
-
 ### ✉️  Get In Touch
 Interested in working together? Lets have a chat!
 
