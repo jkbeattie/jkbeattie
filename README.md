@@ -15,16 +15,19 @@ Some of the day-to-day tools and technologies I use for various projects include
 ![](https://img.shields.io/badge/Code-Python-141321?style=flat&logo=python&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Code-CSharp-141321?style=flat&logo=csharp&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Code-React-141321?style=flat&logo=react&logoColor=white&labelColor=0093F5)
+![](https://img.shields.io/badge/Code-Next-141321?style=flat&logo=next.js&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Code-JavaScript-141321?style=flat&logo=javascript&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Code-TypeScript-141321?style=flat&logo=typescript&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Code-Tailwind-141321?style=flat&logo=tailwindcss&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Code-Sass-141321?style=flat&logo=sass&logoColor=white&labelColor=0093F5)
 
+![](https://img.shields.io/badge/Tools-SQLServer-141321?style=flat&logo=microsoftsqlserver&logoColor=white&labelColor=0093F5)
+![](https://img.shields.io/badge/Tools-PostgreSQL-141321?style=flat&logo=postgresql&logoColor=white&labelColor=0093F5)
+![](https://img.shields.io/badge/Tools-Supabase-141321?style=flat&logo=supabase&logoColor=white&labelColor=0093F5)
+![](https://img.shields.io/badge/Tools-Netlify-141321?style=flat&logo=netlify&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Tools-Docker-141321?style=flat&logo=docker&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Tools-Postman-141321?style=flat&logo=postman&logoColor=white&labelColor=0093F5)
-![](https://img.shields.io/badge/Tools-Git-141321?style=flat&logo=git&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Tools-AWS-141321?style=flat&logo=amazonaws&logoColor=white&labelColor=0093F5)
-![](https://img.shields.io/badge/Tools-GCP-141321?style=flat&logo=googlecloud&logoColor=white&labelColor=0093F5)
 
 ### ✉️  Get In Touch
 Interested in working together? Lets have a chat!
