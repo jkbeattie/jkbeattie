@@ -16,6 +16,7 @@ Some of the day-to-day tools and technologies I use for various projects include
 ![](https://img.shields.io/badge/Code-CSharp-141321?style=flat&logo=csharp&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Code-React-141321?style=flat&logo=react&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Code-JavaScript-141321?style=flat&logo=javascript&logoColor=white&labelColor=0093F5)
+![](https://img.shields.io/badge/Code-TypeScript-141321?style=flat&logo=typescript&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Code-Sass-141321?style=flat&logo=sass&logoColor=white&labelColor=0093F5)
 
 ![](https://img.shields.io/badge/Tools-Docker-141321?style=flat&logo=docker&logoColor=white&labelColor=0093F5)
