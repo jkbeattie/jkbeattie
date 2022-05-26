@@ -1,6 +1,6 @@
-### Full-Stack Software Engineer 
+### Full Stack Software Engineer 
 
-I'm a full-stack software engineer based in Australia. I pride myself on providing a seamless and hassle-free experience for my clients, as well as consistently producing high quality software solutions and enriched user experiences.
+I'm a full stack software engineer based in Australia. I pride myself on providing a seamless and hassle-free experience for my clients, as well as consistently producing high quality software solutions and enriched user experiences.
 
 I enjoy being creative and have a passion for solving problems.
 
