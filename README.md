@@ -23,7 +23,6 @@ Some of the day-to-day tools and technologies I use for various projects include
 ![](https://img.shields.io/badge/Tools-SQLServer-141321?style=flat&logo=microsoftsqlserver&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-141321?style=flat&logo=postgresql&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Tools-Supabase-141321?style=flat&logo=supabase&logoColor=white&labelColor=0093F5)
-![](https://img.shields.io/badge/Tools-Netlify-141321?style=flat&logo=netlify&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Tools-Docker-141321?style=flat&logo=docker&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Tools-Postman-141321?style=flat&logo=postman&logoColor=white&labelColor=0093F5)
 ![](https://img.shields.io/badge/Tools-AWS-141321?style=flat&logo=amazonaws&logoColor=white&labelColor=0093F5)
